@@ -20,7 +20,7 @@ import DetailChanteur from "./DetailChanteur";
 
 function Spotify(props) {
   function Home() {
-    return <h2>Bienvenue</h2>;
+    return <h2>Bienvenue dans mon appli</h2>;
   }
   return (
     <BrowserRouter>
